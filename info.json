@@ -1,0 +1,26 @@
+{
+  "name": "Galina Kishirova",
+  "website": "https://github.com/galinaki",
+  "linkedin": "https://www.linkedin.com/in/galinakishirova/",
+  "github": "galinaki",
+  "email": "kalash.gk@gmail.com",
+  "resume": "pending",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Language: Russian",
+      "Dental expirience",
+      "Know where best vodka infusion martini"
+  ]
+}
